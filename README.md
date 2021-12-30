@@ -30,4 +30,4 @@ Feature Matching |
 Outliers Removal |
 <img src="DemoImages/OutliersRemoval.PNG" width="450" height="300"> |
 Image  Stitching |
-<img src="DemoImages/ImageStitching.PNG" width="450" height="300"> |
+<img src="DemoImages/Stitching.PNG" width="450" height="300"> |
