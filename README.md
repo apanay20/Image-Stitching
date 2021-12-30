@@ -8,7 +8,7 @@ Author:
 
 ## Prerequisites
 
-Below are shown the necessary python libraries to run the edge detector. 
+Below are shown the necessary python libraries to run the project. 
 * OpenCV
   ```sh
   pip install opencv-python
