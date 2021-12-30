@@ -23,6 +23,7 @@ Below are shown the necessary python libraries to run the edge detector.
   ```
 ## Results
 Feature Extraction        |
+:------------------------:|
 <img src="DemoImages/ExtractFeatures.PNG" width="450" height="300">  |
 Feature Matching
 <img src="DemoImages/FeatureMatching.PNG" width="450" height="300"> |
