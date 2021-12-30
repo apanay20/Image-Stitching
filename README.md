@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is an implementation of Canny Edge Detector algorithm using multiprocessing, in tasks where is possible.
+Panorama composition using SIFT Features and a custom implementaion of RANSAC algorithm (Random Sample Consensus).
 
 Author:
 * Andreas Panayiotou
