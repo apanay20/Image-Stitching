@@ -25,9 +25,9 @@ Below are shown the necessary python libraries to run the edge detector.
 Feature Extraction        |
 :------------------------:|
 <img src="DemoImages/ExtractFeatures.PNG" width="450" height="300">  |
-Feature Matching
+Feature Matching |
 <img src="DemoImages/FeatureMatching.PNG" width="450" height="300"> |
-Outliers Removal
+Outliers Removal |
 <img src="DemoImages/OutliersRemoval.PNG" width="450" height="300"> |
-Image  Stitching
+Image  Stitching |
 <img src="DemoImages/Image Stitching.PNG" width="450" height="300"> |
