@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Panorama composition using SIFT Features and a custom implementaion of RANSAC algorithm (Random Sample Consensus).
+Panorama composition with multible images using SIFT Features and a custom implementaion of RANSAC algorithm (Random Sample Consensus).
 
 Author:
 * Andreas Panayiotou
