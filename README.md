@@ -8,7 +8,7 @@ Author:
 
 ## Prerequisites
 
-Below are shown the necessary python libraries to run the project. 
+Below are shown the necessary python libraries for the project. 
 * OpenCV
   ```sh
   pip install opencv-python
